@@ -6,7 +6,7 @@
 このリポジトリのコードを Google Colab 上で実行することも可能です。
 | Colab name | Colab Page |
 | --- | --- |
-face_features.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yhotta240/face_features/blob/main/face_features.ipynb)  
+face_features.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yhotta240/gacha-pull-plan/blob/main/gacha_pull_plan.ipynb)  
 
 remaining_days:  残りの日数<br>
 current_stones:  所持している石の数<br>
